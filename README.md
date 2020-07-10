@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Victor
 
-I'm Victor! I'm a software engineer who is passionate about systems design, software developement and devops.
+I'm a software engineer who is passionate about systems design, software developement and devops.
 
 Find me around the web <img src="https://icon-library.net/images/small-globe-icon/small-globe-icon-1.jpg" alt="world globe" width="20"/>
 
