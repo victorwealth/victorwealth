@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Victor
+## Hi there, I'm Victor 👋
 
 I'm a software engineer who is passionate about systems design, software developement and devops.
 
@@ -6,7 +6,7 @@ Find me around the web <img src="https://icon-library.net/images/small-globe-ico
 
   - Working on JavaScript and MERN stack 🔭
   - Learning Linux System Administration and DevOps 🌱
-  - Interested in collaborating on Linux and DevOps projects 👯
+  - Interested in collaborating on C#, JS and DevOps projects 👯
   - Sharing updates on <a href="https://www.linkedin.com/in/iam-victorakpan/">LinkedIn</a>
   
 <!--
