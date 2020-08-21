@@ -1,11 +1,13 @@
 ## Hi there, I'm Victor 👋
 
-I'm a software engineer who is passionate about systems design, software developement and devops.
+In the last 5 years of my career, I have demonstrated knowledge and expertise in software development practices and principles such as: OOP, SOLID, Design Patterns, Software Design, Unit Testing, Development Frameworks, ORMs, DI and RESTful APIs for microservices.
+
+Today, I am continuously expanding my technical breadth in Microservice Architecture, Scaling, Containerization, Orchestration, CI / CD, Cloud Computing, Provisioning, administering, configuring, monitoring and troubleshooting server environments.
 
 Find me around the web <img src="https://icon-library.net/images/small-globe-icon/small-globe-icon-1.jpg" alt="world globe" width="20"/>
 
-  - Working on JavaScript and MERN stack 🔭
-  - Learning Linux System Administration and DevOps 🌱
+  - Coding on Bash, JavaScript, C# and PHP 🔭
+  - Learning System Administration and DevOps practices 🌱
   - Interested in collaborating on C#, JS and DevOps projects 👯
   - Sharing updates on <a href="https://www.linkedin.com/in/iam-victorakpan/">LinkedIn</a>
   
