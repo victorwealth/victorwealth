@@ -12,14 +12,14 @@ Competencies: Product Management, Leading Teams, DevOps Engineering, Software De
 
 Find me around the web <img src="https://icon-library.net/images/small-globe-icon/small-globe-icon-1.jpg" alt="world globe" width="20"/>
 
-  🔭 Defining product road map in line with business goals, vision and strategy
-  🤔 Explore new ways of improving existing products
-  🌱 Provide product training and technical expertise
-  👯 Lead agile teams
-  ⚡ Assist the team on product development, testing and acceptance
-  💬 Guiding teams and organization on how to use scrum rules, roles and values
-  📫 Manage and administer Linux systems
-  ✨ Setup and Manage software development automation like CI / CD
+  - 🔭 Defining product road map in line with business goals, vision and strategy
+  - 🤔 Explore new ways of improving existing products
+  - 🌱 Provide product training and technical expertise
+  - 👯 Lead agile teams
+  - ⚡ Assist the team on product development, testing and acceptance
+  - 💬 Guiding teams and organization on how to use scrum rules, roles and values
+  - 📫 Manage and administer Linux systems
+  - ✨ Setup and Manage software development automation like CI / CD
   - Interested in collaborating on Product Development, Sys. Admin and DevOps projects
   - Sharing updates on <a href="https://www.linkedin.com/in/iam-victorakpan/">LinkedIn</a>
   
