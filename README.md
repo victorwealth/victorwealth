@@ -1,14 +1,26 @@
 ## Hi there, I'm Victor 👋
 
-I believe you should love your job. In fact, I believe that you should be thrilled with your job. And more than thrilled - fulfilled by it. I believe your career should give you purpose, one that lets you use a set of skills that give you pride and meaning. I believe that your work can - and should be a part of who you are, what you value, and what you want for the future of the world.
+I have over 5 years of experience working in software development. Currently, I work as a (contractor) Technical Product Manager for a Business Development Agency, Product Development and Branding company in Mauritius, and a freelancer at Upwork.
 
-For me, that work is product development and management.
+My primary responsibilities include exploring new ways of improving existing products, serve as product evangelist and a bridge between technical team (developers, engineers, architects, quality assurance) and operations, provide product training and technical expertise, coordinate the development and release of software products and services using agile, identify and present innovative product solutions, answer product related inquiries, define success criteria for testing and product acceptance, assess and address technical risks among others.
+
+Previously, I worked as Senior Software Engineer at Information Technology ELCA Mauritius, where as a team lead, I implemented reusable components and provided time-saving code optimization for the team, increasing the team's velocity. I also delivered technical training to associate engineers on software development principles.
+
+If you are looking for a product manager with strong technical background in software development and automation, agile methodologies especially Scrum, and keen interest in product development in general, then please reach out via email (v.akpan@live.com).
+
+Competencies: Product Management, Leading Teams, DevOps Engineering, Software Development(SDLC, OOP, SOLID, Design Patterns, C#, ASP.NET / CORE, PHP, SQL, MySQL, JavaScript).
 
 Find me around the web <img src="https://icon-library.net/images/small-globe-icon/small-globe-icon-1.jpg" alt="world globe" width="20"/>
 
-  - Coding on Bash, Python and JavaScript 🔭
-  - Learning Product Development and DevOps practices 🌱
-  - Interested in collaborating on Product Development, Sys. Admin and DevOps projects 👯
+  🔭 Defining product road map in line with business goals, vision and strategy
+  🤔 Explore new ways of improving existing products
+  🌱 Provide product training and technical expertise
+  👯 Lead agile teams
+  ⚡ Assist the team on product development, testing and acceptance
+  💬 Guiding teams and organization on how to use scrum rules, roles and values
+  📫 Manage and administer Linux systems
+  ✨ Setup and Manage software development automation like CI / CD
+  - Interested in collaborating on Product Development, Sys. Admin and DevOps projects
   - Sharing updates on <a href="https://www.linkedin.com/in/iam-victorakpan/">LinkedIn</a>
   
 <!--
