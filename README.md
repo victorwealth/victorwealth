@@ -1,14 +1,14 @@
-## Hi there, I'm Victor 👋
+## Hi, I'm Victor 👋
 
-I have over 5 years of experience working in software development. Currently, I work as a (contractor) Technical Product Manager for a Business Development Agency, Product Development and Branding company in Mauritius, and a freelancer at Upwork.
+I have over 5 years of experience working in software development. I work as a Technical Product Development contractor for a Business Development Agency, Product Development and Branding company in Mauritius, and a freelancer at Upwork.
 
 My primary responsibilities include exploring new ways of improving existing products, serve as product evangelist and a bridge between technical team (developers, engineers, architects, quality assurance) and operations, provide product training and technical expertise, coordinate the development and release of software products and services using agile, identify and present innovative product solutions, answer product related inquiries, define success criteria for testing and product acceptance, assess and address technical risks among others.
 
-Previously, I worked as Senior Software Engineer at Information Technology ELCA Mauritius, where as a team lead, I implemented reusable components and provided time-saving code optimization for the team, increasing the team's velocity. I also delivered technical training to associate engineers on software development principles.
+Previously, I worked as a Senior Software Engineer at Information Technology ELCA Mauritius. As a team lead, I implemented reusable components and provided time-saving code optimization for the team, increasing the team's velocity. I also delivered technical training to associate engineers on software development principles.
 
-If you are looking for a product manager with strong technical background in software development and automation, agile methodologies especially Scrum, and keen interest in product development in general, then please reach out via email (v.akpan@live.com).
+If you are looking for a candidate with a strong technical background in software development and automation, agile methodologies, especially Scrum and TDD, and keen interest in product development then please reach out via email (v.akpan@live.com).
 
-Competencies: Product Management, Leading Teams, DevOps Engineering, Software Development(SDLC, OOP, SOLID, Design Patterns, C#, ASP.NET / CORE, PHP, SQL, MySQL, JavaScript).
+Competencies: Software Development (SDLC, OOP, SOLID, Design Patterns, Design Principles, C#, ASP.NET Core MVC, SQL, MySQL, JavaScript, HTML, CSS3), Product Management, Leading Teams, Linux skills, apps and workflow development with Power Automate
 
 Find me around the web <img src="https://icon-library.net/images/small-globe-icon/small-globe-icon-1.jpg" alt="world globe" width="20"/>
 
