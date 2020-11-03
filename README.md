@@ -1,6 +1,6 @@
 ## Hi, I'm Victor 👋
 
-I have over 5 years of experience working in software development. I work as a Technical Product Development contractor for a Business Development Agency, Product Development and Branding company in Mauritius, and a freelancer at Upwork.
+I have over 6 years of experience working in software development. I work as a Technical Product Development contractor for a Business Development Agency, Product Development and Branding company in Mauritius, and a freelancer at Upwork.
 
 My primary responsibilities include exploring new ways of improving existing products, serve as product evangelist and a bridge between technical team (developers, engineers, architects, quality assurance) and operations, provide product training and technical expertise, coordinate the development and release of software products and services using agile, identify and present innovative product solutions, answer product related inquiries, define success criteria for testing and product acceptance, assess and address technical risks among others.
 
