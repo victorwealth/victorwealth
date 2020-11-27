@@ -1,14 +1,8 @@
 ## Hi, I'm Victor 👋
 
-I have over 6 years of experience working in software development. I work as a Technical Product Development contractor for a Business Development Agency, Product Development and Branding company in Mauritius, and a freelancer at Upwork.
+> I am valuable and a unique person with a lot to offer given all my experience, education and training. I am creative; I work hard, and I am a good colleague with a few recent wins at work.
 
-My primary responsibilities include exploring new ways of improving existing products, serve as product evangelist and a bridge between technical team (developers, engineers, architects, quality assurance) and operations, provide product training and technical expertise, coordinate the development and release of software products and services using agile, identify and present innovative product solutions, answer product related inquiries, define success criteria for testing and product acceptance, assess and address technical risks among others.
-
-Previously, I worked as a Senior Software Engineer at Information Technology ELCA Mauritius. As a team lead, I implemented reusable components and provided time-saving code optimization for the team, increasing the team's velocity. I also delivered technical training to associate engineers on software development principles.
-
-If you are looking for a candidate with a strong technical background in software development and automation, agile methodologies, especially Scrum and TDD, and keen interest in product development then please reach out via email (v.akpan@live.com).
-
-Competencies: Software Development (SDLC, OOP, SOLID, Design Patterns, Design Principles, C#, ASP.NET Core MVC, SQL, MySQL, JavaScript, HTML, CSS3), Product Management, Leading Teams, Linux skills, apps and workflow development with Power Automate
+Competencies: Software Development (SDLC, OOP, SOLID, Design Patterns, Design Principles, Data Structures, Algorithms, Python, C#, ASP.NET Core MVC, SQL, MySQL, JavaScript, HTML, CSS3), Product Management, Leading Teams, Linux skills, apps and workflow development with Power Platform
 
 Find me around the web <img src="https://icon-library.net/images/small-globe-icon/small-globe-icon-1.jpg" alt="world globe" width="20"/>
 
