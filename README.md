@@ -2,20 +2,20 @@
 
 > I am valuable and a unique person with a lot to offer given all my experience, education and training. I am creative; I work hard, and I am a good colleague with a few recent wins at work.
 
-Competencies: Software Development (SDLC, OOP, SOLID, Design Patterns, Design Principles, Data Structures, Algorithms, Python, C#, ASP.NET Core MVC, SQL, MySQL, JavaScript, HTML, CSS3), Product Management, Leading Teams, Linux skills, apps and workflow development with Power Platform.
+I'm technology trainer who happens to be a software developer. A lifelong learner who is willing to try anything, experiment and share the results. <br/>It's OK to call me a technologist.
 
 Find me around the web <img src="https://icon-library.net/images/small-globe-icon/small-globe-icon-1.jpg" alt="world globe" width="20"/>
 
-  - 🔭 Defining product road map in line with business goals, vision and strategy
-  - 🤔 Explore new ways of improving existing products
-  - 🌱 Provide product training and technical expertise
-  - 👯 Lead agile teams
+  - 🔭 Creating educational contents at <a href="https:victorakpan.com">victorakpan.com</a>
+  - 🤔 Building cloud developer skills on Azure
+  - 🌱 Exploring Microservices architecture
   - ⚡ Assist the team on product development, testing and acceptance
   - 💬 Guiding teams and organization on how to use scrum rules, roles and values
-  - 📫 Manage and administer Linux systems
-  - ✨ Setup and Manage software development automation like CI / CD
-  - Interested in collaborating on Product Development, and RPA projects.
+  - 📫 Developing my linux administration skills
+  - ⚡ Fun fact: I support Chelsea FC. London is blue please don't argue.
+  - Interested in collaborating on open-source projects
   - Sharing updates on <a href="https://www.linkedin.com/in/iam-victorakpan/">LinkedIn</a>
+ 
   
 <!--
 **victorwealth/victorwealth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
