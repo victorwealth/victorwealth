@@ -2,7 +2,7 @@
 
 > I am valuable and a unique person with a lot to offer given all my experience, education and training. I am creative; I work hard, and I am a good colleague with a few recent wins at work.
 
-I'm technology trainer who happens to be a software developer. A lifelong learner who is willing to try anything, experiment and share the results. <br/>It's OK to call me a technologist.
+I'm technology trainer who happens to be a software developer. A lifelong learner who is willing to try anything, experiment and share the results. It's OK to call me a technologist.
 
 Find me around the web <img src="https://icon-library.net/images/small-globe-icon/small-globe-icon-1.jpg" alt="world globe" width="20"/>
 
