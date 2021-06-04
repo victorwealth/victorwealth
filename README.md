@@ -11,15 +11,15 @@
 
 - 🌱 I’m currently learning **Azure Cloud Developer**
 
-- 👨‍💻 All of my projects are available at [https://github.com/victorwealth?tab=repositories](https://github.com/victorwealth?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/victorwealth?tab=repositories)
 
-- 📝 I regularly write articles on [https://victorakpan.com](https://victorakpan.com)
+- 📝 I regularly write articles on [my website](https://victorakpan.com) and videos on [Async Academy](https://www.youtube.com/channel/ucdxhebfetqvssyw16sup2pa)
 
 - 💬 Ask me about **Technical training, C#, Azure, Microservices, Anything**
 
 - 📫 How to reach me **v.akpan@live.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/iam-victorakpan/](https://www.linkedin.com/in/iam-victorakpan/)
+- 📄 Know about my experiences and education on [LinkedIn](https://www.linkedin.com/in/iam-victorakpan/)
 
 - ⚡ Fun fact **I support Chelsea FC. London is blue please don't argue**
 
@@ -31,7 +31,7 @@
 <p align="left">
 <a href="https://twitter.com/iam_victorakpan" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/twitter-ui-flat/48/Twitter_UI-02-512.png" alt="iam_victorakpan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/iam-victorakpan/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="https://www.linkedin.com/in/iam-victorakpan/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucdxhebfetqvssyw16sup2pa" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/04/YouTube-logo.png" alt="https://www.youtube.com/channel/ucdxhebfetqvssyw16sup2pa" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/ucdxhebfetqvssyw16sup2pa" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/04/YouTube-logo.png" alt="https://www.youtube.com/channel/ucdxhebfetqvssyw16sup2pa" height="30" width="40" /></a>
 <a href="/https://www.victorakpan.com/rss.xml" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_rss-512.png" alt="https://www.victorakpan.com/rss.xml" height="30" width="40" /></a>
 </p>
 
