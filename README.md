@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [No title](https://victorakpan.com/intro-to-cloud-computing)
 - [No title](https://victorakpan.com/enhance-your-code-yield-keyword)
 - [No title](https://victorakpan.com/new-features-of-csharp-nine)
 - [No title](https://victorakpan.com/understanding-ienumerable-icollection-ilist-iqueryable-interfaces)
 - [No title](https://victorakpan.com/ef-core-inmemory-and-dependency-injection-in-console-app)
-- [No title](https://victorakpan.com/back-end-developer-path)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
