@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [No title](https://victorakpan.com/intro-to-cloud-computing)
-- [No title](https://victorakpan.com/enhance-your-code-yield-keyword)
-- [No title](https://victorakpan.com/new-features-of-csharp-nine)
-- [No title](https://victorakpan.com/understanding-ienumerable-icollection-ilist-iqueryable-interfaces)
-- [No title](https://victorakpan.com/ef-core-inmemory-and-dependency-injection-in-console-app)
+- [Introduction to Cloud Computing](https://victorakpan.com/intro-to-cloud-computing)
+- [Enhance your code with Yield keyword](https://victorakpan.com/enhance-your-code-yield-keyword)
+- [New features of C# 9.0 (.NET 5.0)](https://victorakpan.com/new-features-of-csharp-nine)
+- [Understanding IEnumerable, ICollection, IList and IQueryable interfaces in C#](https://victorakpan.com/understanding-ienumerable-icollection-ilist-iqueryable-interfaces)
+- [How to use EntityframeworkCore's In-Memory Database and Dependency Injection in Console application](https://victorakpan.com/ef-core-inmemory-and-dependency-injection-in-console-app)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
